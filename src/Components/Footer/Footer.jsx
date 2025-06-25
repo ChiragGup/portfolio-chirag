@@ -46,7 +46,7 @@ function Footer() {
         {/* GitHub */}
         <li className="flex items-center gap-3 hover:scale-105 duration-300">
           <a
-            href="https://github.com/techbydeepak"
+            href="https://github.com/ChiragGup"
             className="flex items-center gap-2 text-white hover:text-gray-300"
             target="_blank"
             rel="noopener noreferrer"
