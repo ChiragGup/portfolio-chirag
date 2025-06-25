@@ -33,7 +33,7 @@ function Projects() {
                 <ProjectCard
                     title="Ai video ads generator"
                     main="A book rental app for seamless book sharing and transactions, developed using React.js and Node.js."
-                    demoLink="https://github.com/yourusername/book-rental-app-demo"
+                    demoLink="https://ai-video-ads-generator-delta.vercel.app/"
                     sourceCodeLink="https://github.com/yourusername/book-rental-app"
                     image={bookRentalAppImage} 
                 />
